@@ -1,6 +1,6 @@
 # Pacman
 
-Simple Pac-man game.
+A simple Pac-Man game developed in Java using NetBeans.
 
 ## Description
 
